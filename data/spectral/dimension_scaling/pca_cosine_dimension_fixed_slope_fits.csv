@@ -1,0 +1,7 @@
+alpha,metric,fit_scope,n_dimensions,d_min,d_max,num_seeds,p_fixed,amplitude_A,amplitude_A_ci95_low,amplitude_A_ci95_high,r_squared_loglog,rmse_loglog,bootstrap_reps,bootstrap_seed,method
+20.96144000826768,cosine_abs,all_dimensions,9,100,25600,30,0.5,7.201316298866084,6.439655263799478,7.892113034066253,0.876505791504215,0.24914682955648276,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only
+32.37394014347626,cosine_abs,all_dimensions,9,100,25600,30,0.5,8.171403131799824,7.287576730770538,8.973005308008679,0.8493738952176355,0.27023150500688287,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only
+50.0,cosine_abs,all_dimensions,9,100,25600,30,0.5,9.188796757083058,8.272445249765703,10.072406812420004,0.777986896930119,0.3073693608224394,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only
+20.96144000826768,cosine_abs,large_dimension_tail,5,1600,25600,30,0.5,8.649152576185243,7.240752962119353,9.9826893497657,0.9712496007846835,0.08964583977959963,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only
+32.37394014347626,cosine_abs,large_dimension_tail,5,1600,25600,30,0.5,9.887197028505211,8.31588306915194,11.400732537228036,0.971739355737975,0.08890792307268908,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only
+50.0,cosine_abs,large_dimension_tail,5,1600,25600,30,0.5,11.48550863594714,9.751870925826017,13.158843696912358,0.9969992820707005,0.027701612299853996,2000,1729,unweighted log-space least squares; p fixed at 0.5; amplitude only

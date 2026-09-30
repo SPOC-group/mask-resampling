@@ -1,0 +1,3 @@
+# Linux/Python 3.11, compatible NVIDIA driver; installs the JAX CUDA 12 extra.
+-r synthetic-cpu.txt
+jax[cuda12]==0.4.30

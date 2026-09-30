@@ -1,0 +1,25 @@
+{
+  "lr": 0.001,
+  "rho": 0.625,
+  "validation_interval_updates": 2500,
+  "early_stopping_patience_updates": 125000,
+  "max_updates": 1150000,
+  "early_traces_are_separate_diagnostic_reruns": true,
+  "files": {
+    "early_training.csv": {
+      "sha256": "fcf53900a3eb4f258ce0fe2760aea06ba5311f15ac283e6fdaa29dcd11c742e4"
+    },
+    "early_validation.csv": {
+      "sha256": "6673a1f7b53944d107f28ccb6f432135d20d5f44cca3360116c20319ad6c6359"
+    },
+    "selected_checkpoints.csv": {
+      "sha256": "abdde606cdf0b2df812ed71c434664d4b03e549ddf84c2a4b60d16fddbd93ae4"
+    },
+    "test_accuracy.csv": {
+      "sha256": "628a5e2572d257905377e8f034a556e73ac41c9eaca14b03af60abec69031446"
+    },
+    "training_history.csv": {
+      "sha256": "5113c2dee5f522a91066795b3cd526c8ace799d32029f9a742110c7ac8f05d60"
+    }
+  }
+}

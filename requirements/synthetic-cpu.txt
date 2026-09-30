@@ -1,0 +1,7 @@
+# Python 3.11; numerical versions recorded for the synthetic experiments.
+numpy==2.0.2
+scipy==1.13.1
+pandas==2.3.3
+torch==2.8.0
+jax==0.4.30
+jaxlib==0.4.30

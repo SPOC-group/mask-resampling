@@ -1,0 +1,3 @@
+masks,crop_flip_top1_pct,crop_flip_top5_pct,no_crop_flip_top1_pct,no_crop_flip_top5_pct
+Static,25.34,51.20,26.22,53.28
+Dynamic,39.96,68.78,41.98,71.06

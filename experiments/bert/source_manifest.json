@@ -1,0 +1,22 @@
+{
+  "upstream": "https://github.com/princeton-nlp/DinkyTrain",
+  "commit": "67c5b37082f152681148c91f29390b2cd5a71170",
+  "archive_url": "https://codeload.github.com/princeton-nlp/DinkyTrain/tar.gz/67c5b37082f152681148c91f29390b2cd5a71170",
+  "archive_sha256": "6e53cd05f321f9cb8e2e8cba9c2cd1992cb549d7d5968f8a021a95940ca20f37",
+  "overlay_sha256": {
+    "fairseq/checkpoint_utils.py": "f214865dd8483a9f1a875d40420a3aa95256f58d64bfdccec7c4f4a34e9b852d",
+    "fairseq/criterions/masked_lm.py": "f887fb8e8868ba545e5254bdbee656aa46a1dddb8ff78e09ff36661cfe94524f",
+    "fairseq/data/__init__.py": "728ce23849221430e724b3b2b4c357f4d8cac83ee1aff586c94dfb085e860223",
+    "fairseq/data/mask_tokens_dataset.py": "04947061e6a22fef2222638906d210a9b0dc02cfe75dabd4d51d62812d9a326e",
+    "fairseq/data/fixed_mask_dataset.py": "7be658effc8aa969f736bb9ca19e70214ec3a65ca21794a03eee076ce7ca03be",
+    "fairseq/dataclass/configs.py": "1e2cec34b29dd82d7c16930fcddf4201288de7f41cd81bc177c05dc658f4cd94",
+    "fairseq/dataclass/initialize.py": "1d40940a4dbdca2fb0606c9be9538872bd7f5b786a2b5f229d94c3912e1e2e09",
+    "fairseq/dataclass/utils.py": "04ffc900980d00dd873cba16e7862b45261860a95761918be36bb80046ccdd02",
+    "fairseq/logging/progress_bar.py": "1a7fd27afa5b852e4f412dcb66bf8dfb7a61c8370ab69bc4697155e748a857c7",
+    "fairseq/models/roberta/deepspeed_model.py": "26984235cf012abb2e52606d9a53adf57ad762fb7dd1e2c7315393a595ac12dd",
+    "fairseq/models/roberta/model.py": "36a17a518d050e5e5dff1ccc0f1c5f5c5cba60cba18a0248960752800de9f115",
+    "fairseq/models/transformer/transformer_config.py": "9cd43399b4a2c046b0cc2be55b1ee727512d9d5a2cbad8851beb50103e98c89f",
+    "fairseq/tasks/masked_lm.py": "888c784821f248d5abe1e3d41833a632b4806f948a447c8eb748fa3dce9fe54d",
+    "fairseq_cli/validate_glue.py": "54ecebe3af675c83e938b826da44a534fe4216f55082035ab3eaf70fe656f2a8"
+  }
+}

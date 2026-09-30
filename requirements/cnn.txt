@@ -1,0 +1,4 @@
+# Python 3.11; select the PyTorch wheel for your platform if necessary.
+torch==2.8.0
+numpy==2.0.2
+Pillow==11.3.0

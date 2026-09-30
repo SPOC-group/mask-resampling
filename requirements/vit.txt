@@ -1,0 +1,2 @@
+# Use a separate Python 3.11 environment; see experiments/vit/README.md.
+-r ../experiments/vit/requirements.txt

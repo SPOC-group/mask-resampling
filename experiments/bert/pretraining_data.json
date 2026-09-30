@@ -1,0 +1,25 @@
+{
+  "directory_name": "bin-shard0-8",
+  "files": {
+    "dict.txt": {
+      "bytes": 603290,
+      "sha256": "2c31c5b236661067fe8626775eb995ef5fe808ac87d2ad4a6ddbef68550f5cc6"
+    },
+    "train.idx": {
+      "bytes": 213468230,
+      "sha256": "bd3feae6cdd8d001476f9d5e95369ddf15fe25a458646facb0b34331626e3bdc"
+    },
+    "train.bin": {
+      "bytes": 954222548,
+      "sha256": "b4ec6f115e11435925319fef20f12aa0d8acfa68af2571da4cf81fa5dfc30053"
+    },
+    "valid.idx": {
+      "bytes": 45146,
+      "sha256": "69c730179c16607e30876530e1886e62ef9cdd0daf228f8b86de8d5eb752a91c"
+    },
+    "valid.bin": {
+      "bytes": 492806,
+      "sha256": "c590981bafb9ee39836011daf94fa23e429d3de88dd1c7a7d6c1699aa8147828"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rho": 0.625,
+  "lr": 0.001,
+  "pretraining_optimizer_updates": 125000,
+  "pretraining_early_stopping": false,
+  "files": {
+    "per_run_test_metrics.csv": {
+      "sha256": "5f2336e31869079f7b3972feda98ae69a6d2620bd2844c148c104b476363ad25"
+    }
+  }
+}

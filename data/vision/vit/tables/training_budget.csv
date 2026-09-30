@@ -1,0 +1,6 @@
+schedule,pretraining_epochs,pretraining_effective_batch,probe_epochs,probe_effective_batch,top1_pct,top5_pct
+Main comparison,100,128,50,256,39.96,68.78
+U-MAE,200,1024,50,256,47.56,76.14
+U-MAE,200,1024,90,16384,61.50,86.04
+MAE,641,4096,50,256,51.38,79.60
+MAE,641,4096,90,16384,59.12,84.76

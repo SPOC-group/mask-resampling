@@ -1,0 +1,2 @@
+# Install the recorded torch/torchaudio CUDA wheels first, as described in experiments/bert/README.md.
+-r ../experiments/bert/requirements.txt

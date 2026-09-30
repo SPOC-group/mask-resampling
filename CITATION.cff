@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying results, please cite the paper."
+type: software
+title: "The Hidden Advantage of Mask Resampling: A Theory of Masked Autoencoders"
+authors:
+  - family-names: "Medina Moreira"
+    given-names: "Jorge"
+  - family-names: "Bardone"
+    given-names: "Lorenzo"
+  - family-names: "Zdeborová"
+    given-names: "Lenka"
+abstract: "Code and saved results for masked-autoencoder theory, synthetic experiments, and vision and language comparisons."
+keywords:
+  - masked autoencoders
+  - mask diversity
+  - replica theory
+  - representation learning

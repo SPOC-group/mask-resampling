@@ -1,0 +1,16 @@
+{
+  "rho": 0.625,
+  "scheduler": "ReduceLROnPlateau",
+  "selection": "validation reconstruction MSE",
+  "files": {
+    "selected_checkpoints.csv": {
+      "sha256": "3215b9c62ad3e3893081052ad5d7bf78344f0f323d3afa1cb1378d58a39817f0"
+    },
+    "test_accuracy.csv": {
+      "sha256": "47f5356fd1a9d16bac1a0e1fda429ed10ec1800c5b38d9a859824a8d652cfb6c"
+    },
+    "training_history.csv": {
+      "sha256": "5ed03d490a20b9d976c5d59ab33c87cc092ac47ee20245249be4c019f7eb045b"
+    }
+  }
+}

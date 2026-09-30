@@ -1,0 +1,10 @@
+condition,pt_seed,checkpoint_used,val_loss_used_bits,val_loss_best_bits,val_loss_final_bits,final_num_updates,selected_num_updates
+K1,0,checkpoint_best.pt,4.352,4.352,4.464,99953,29985
+K1,1,checkpoint_best.pt,4.439,4.439,4.536,99953,29985
+K1,2,checkpoint_best.pt,4.336,4.336,4.422,99953,29985
+K10,0,checkpoint_last.pt,3.773,3.773,3.773,99953,99953
+K10,1,checkpoint_last.pt,3.835,3.835,3.835,99953,99953
+K10,2,checkpoint_last.pt,3.792,3.792,3.792,99953,99953
+Dynamic,0,checkpoint_last.pt,3.75,3.75,3.75,99953,99953
+Dynamic,1,checkpoint_last.pt,3.753,3.751,3.753,99953,99953
+Dynamic,2,checkpoint_last.pt,3.733,3.732,3.733,99953,99953
