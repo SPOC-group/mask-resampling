@@ -2,6 +2,8 @@
 
 Code and results for **The Hidden Advantage of Mask Resampling: A Theory of Masked Autoencoders**, by **Jorge Medina Moreira, Lorenzo Bardone, and Lenka Zdeborová**.
 
+**[Paper: arXiv:2610.01578](https://arxiv.org/abs/2610.01578)** · [PDF](https://arxiv.org/pdf/2610.01578)
+
 Study how the number of masks per example changes feature recovery and downstream performance. The repository includes replica/state-evolution solvers, synthetic autoencoder training, AMP and spectral baselines, and CNN, ViT and BERT experiments.
 
 ## Reproduce the figures
@@ -62,4 +64,21 @@ The [data guide](docs/data.md) describes the saved inputs. The [reproduction gui
 
 ## Citation and reuse
 
-Original project code is released under [MIT](LICENSE). Use [CITATION.cff](CITATION.cff) for the paper title and author list. The arXiv identifier and public repository URL will be added when assigned. See [THIRD_PARTY.md](THIRD_PARTY.md) and the retained component licenses before reusing third-party code, particularly the MAE-derived ViT implementation.
+If you use the code or results, please cite the paper:
+
+```bibtex
+@misc{medinamoreira2026hidden,
+  title         = {The hidden advantage of mask resampling: a theory of masked autoencoders},
+  author        = {Medina Moreira, Jorge and Bardone, Lorenzo and Zdeborová, Lenka},
+  year          = {2026},
+  eprint        = {2610.01578},
+  archivePrefix = {arXiv},
+  primaryClass  = {stat.ML},
+  doi           = {10.48550/arXiv.2610.01578},
+  url           = {https://arxiv.org/abs/2610.01578}
+}
+```
+
+GitHub's “Cite this repository” button uses the paper citation in [CITATION.cff](CITATION.cff). The [`v1.0` tag](https://github.com/SPOC-group/mask-resampling/tree/v1.0) identifies the code and saved results accompanying arXiv v1.
+
+Original project code is released under [MIT](LICENSE). See [THIRD_PARTY.md](THIRD_PARTY.md) and the retained component licenses before reusing third-party code, particularly the MAE-derived ViT implementation.

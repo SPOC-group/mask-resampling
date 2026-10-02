@@ -15,3 +15,22 @@ keywords:
   - mask diversity
   - replica theory
   - representation learning
+repository-code: "https://github.com/SPOC-group/mask-resampling"
+url: "https://github.com/SPOC-group/mask-resampling"
+version: "1.0"
+date-released: "2026-10-02"
+preferred-citation:
+  type: article
+  title: "The hidden advantage of mask resampling: a theory of masked autoencoders"
+  authors:
+    - family-names: "Medina Moreira"
+      given-names: "Jorge"
+    - family-names: "Bardone"
+      given-names: "Lorenzo"
+    - family-names: "Zdeborová"
+      given-names: "Lenka"
+  journal: "arXiv"
+  year: 2026
+  date-published: "2026-10-01"
+  doi: "10.48550/arXiv.2610.01578"
+  url: "https://arxiv.org/abs/2610.01578"
